@@ -25,4 +25,4 @@ No random images (cat, dog, etc) have been used for training purposes while desi
 
 1>Run MATLAB from the desktop.
 2>Open the vehicle_number_plate.m file and click on the Run menu button. It will prompt you to select an image file in .jpg format.
-3>Select an image file with a vehicle number plate. In this example, we have used the vehicle1.jpg file.
+3>Select an image file with a vehicle number plate. 
